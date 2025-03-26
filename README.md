@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome
 
-<!--
-**Propmk/Propmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there ,Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a first-year Software Engineering student with a passion for science, technology, and the universe beyond. I’m fascinated by data science and cybersecurity and I'm currently working on various projects to expand my skills in these areas.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 First-year B.Sc. student in Software Engineering
+- 🚀 Passionate about science, technology, and space exploration
+- 🔐 Interested in data science and cybersecurity
+- 🌱 Currently learning and growing my skills in software development and project management
+
+
+
+## Let's Connect
+I'm always eager to connect and collaborate! You can reach me on:
+- [LinkedIn](https://www.linkedin.com/in/protyay-kumar-pramanik) 
+
+
+Thanks for visiting my profile! 🌠
