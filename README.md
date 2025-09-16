@@ -10,7 +10,7 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 - 🌱 Currently learning and growing my skills in Computer Architecture, AI, ML
 
 <p align="center">
-  <img src="propmk/assets/intro.png" alt="Intro Image" width="900">
+  <img src="/assets/intro.png" alt="Intro Image" width="900">
 </p>
 
 ## Let's Connect
