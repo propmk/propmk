@@ -8,6 +8,7 @@ Hi there ,Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 - 🚀 Passionate about science, technology, and space exploration
 - 🔐 Interested in data science and cybersecurity
 - 🌱 Currently learning and growing my skills in Computer Architecture, AI, ML
+##### I USE ARCH BTW
 
 
 
