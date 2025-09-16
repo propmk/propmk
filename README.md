@@ -1,7 +1,7 @@
 # Welcome
 
 <p align="center">
-  <img src="propmk/assets/intro.png" alt="Intro Image" width="900">
+  <img src="/assets/intro.png" alt="Intro Image" width="900">
 </p>
 
 Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Software Engineering student with a passion for science, technology, and the universe beyond. I’m fascinated by data science and cybersecurity and I'm currently working on various projects to expand my skills in these areas.
