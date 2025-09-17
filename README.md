@@ -15,7 +15,7 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 
 ## 🛠 Tools & Technologies
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
+  <a href="https://www.c-language.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
