@@ -1,0 +1,36 @@
+name: breakout action
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   
+  workflow_dispatch:       
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run Breakout generator
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: propmk
+
+      - name: Copy output
+        run: |
+          mkdir -p breakout
+          cp output/light.svg breakout/breakout-light.svg
+          cp output/dark.svg breakout/breakout-dark.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add breakout/
+          git commit -m "Update Breakout images" || echo "No changes to commit"
+          git push
+
