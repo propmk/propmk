@@ -10,7 +10,7 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 - 🌱 Currently learning and growing my skills in Computer Architecture, AI, ML
 
 <p align="center">
-  <img src="/assets/intro.png" alt="Intro Image" width="1000">
+  <img src="https://raw.githubusercontent.com/propmk/0/main/assets/intro.png" alt="Intro Image" width="1000">
 </p>
 
 ## Tools & Technologies
@@ -47,9 +47,9 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 ## Let's Play
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/propmk/propmk/main/breakout/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/propmk/propmk/main/breakout/breakout-light.svg">
-  <img alt="GitHub Breakout animated" src="https://raw.githubusercontent.com/propmk/propmk/main/breakout/breakout-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/propmk/0/main/assets/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/propmk/0/main/assets/breakout-light.svg">
+  <img alt="GitHub Breakout animated" src="https://raw.githubusercontent.com/propmk/0/main/assets/breakout-light.svg">
 </picture>
 
 
