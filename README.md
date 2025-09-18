@@ -44,6 +44,15 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
   </a>
 </p>
 
+## 🎮 Let's Play
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/propmk/propmk/main/breakout/breakout-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/propmk/propmk/main/breakout/breakout-light.gif">
+  <img alt="GitHub Breakout animated" src="https://raw.githubusercontent.com/propmk/propmk/main/breakout/breakout-light.gif">
+</picture>
+
+
 ## Let's Connect
 I'm always eager to connect and collaborate! You can reach me on:
 - [LinkedIn](https://www.linkedin.com/in/protyay-kumar-pramanik) 
