@@ -47,9 +47,9 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 ## 🎮 Let's Play
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/propmk/propmk/breakout/breakout-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/propmk/propmk/breakout/breakout-light.gif">
-  <img alt="GitHub Breakout animated" src="https://raw.githubusercontent.com/propmk/propmk/breakout/breakout-light.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/propmk/propmk/breakout/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/propmk/propmk/breakout/breakout-light.svg">
+  <img alt="GitHub Breakout animated" src="https://raw.githubusercontent.com/propmk/propmk/breakout/breakout-light.svg">
 </picture>
 
 
