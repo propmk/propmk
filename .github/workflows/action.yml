@@ -22,7 +22,6 @@ jobs:
 
       - name: Copy output
         run: |
-          cd .github/workflows
           mkdir -p breakout
           cp output/light.svg breakout/breakout-light.svg
           cp output/dark.svg breakout/breakout-dark.svg
