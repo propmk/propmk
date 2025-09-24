@@ -33,9 +33,6 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   </a>
-  <a href="https://www.gnu.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="GNU" width="50" height="50"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   </a>
