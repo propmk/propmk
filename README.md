@@ -52,6 +52,17 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 
 ## Let's Connect
 I'm always eager to connect and collaborate! You can reach me on:
-- [LinkedIn](https://www.linkedin.com/in/protyay-kumar-pramanik) 
+- [LinkedIn](https://www.linkedin.com/in/protyay-kumar-pramanik)
 
-Thanks for visiting my profile! 🌠
+## 
+<p align="center">
+  <em>"Creativity sparks within constraints"</em><br>
+  &emsp;- <em>Sususs Amongus</em>
+</p>
+
+
+
+
+
+
+
