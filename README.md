@@ -14,6 +14,7 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 </p>
 
 ## Tools & Technologies
+
 <p align="left">
   <a href="https://www.c-language.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
@@ -55,8 +56,14 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
   <img alt="GitHub Breakout animated" src="https://raw.githubusercontent.com/propmk/0/main/assets/breakout-light.svg">
 </picture>
 
+## Konnichiwa Visitor
+
+<p align="center">
+  <img alt="View Counter" src="https://count.getloli.com/get/@propmk?theme=original-new"/>
+</p>
 
 ## Let's Connect
+
 I'm always eager to connect and collaborate! You can reach me on:
 - [LinkedIn](https://www.linkedin.com/in/protyay-kumar-pramanik)
 
