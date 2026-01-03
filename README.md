@@ -70,7 +70,11 @@ I'm always eager to connect and collaborate! You can reach me on:
    ```
    linkedin.com/in/protyay-kumar-pramanik
    ```
+- [![Email](https://img.shields.io/badge/Email-purple?style=plastic&logo=protonmail&logoColor=white)](mailto:protyay.dev@proton.me)
 
+   ```
+   protyay.dev@proton.me
+   ```
    
 ## 
 <p align="center">
