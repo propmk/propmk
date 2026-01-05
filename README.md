@@ -1,5 +1,22 @@
 # Welcome
 
+``` 
+$ fastfetch
+            __
+           /(`o
+     ,-,  //  \\
+    (,,,) ||   V
+   (,,,,)\//
+   (,,,/w)-'	┌─[NAME] Protyay Kumar Pramanik
+   \,,/w)       ├─[EDU ] BSc. in SWE   
+   `V/uu        ├─[LANG] C, Python, Bash
+     / |        └─[TECH] Git, MariaDB, Docker, Linux
+     | |
+     o o
+     \ |
+\,/  ,\|,.  \,/
+```
+
 Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Software Engineering student with a passion for science, technology, and the universe beyond. I’m fascinated by data science and cybersecurity and I'm currently working on various projects to expand my skills in these areas.
 
 ## About Me
