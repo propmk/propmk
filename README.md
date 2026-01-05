@@ -4,10 +4,10 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
 
 ## About Me
 
-- 🎓 Sophomore B.Sc. student in Software Engineering
-- 🚀 Passionate about science, technology, and space exploration
-- 🔐 Interested in data science and cybersecurity
-- 🌱 Currently learning and growing my skills in Computer Architecture, AI, ML
+🎓 Sophomore B.Sc. student in Software Engineering <br>
+🚀 Passionate about science, technology, and space exploration <br>
+🔐 Interested in data science and cybersecurity <br>
+🌱 Currently learning and growing my skills in Computer Architecture, AI, ML <br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/propmk/0/main/assets/intro.png" alt="Intro Image" width="1000">
