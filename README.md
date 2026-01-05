@@ -1,13 +1,13 @@
 # Welcome
 
-Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Software Engineering student with a passion for science, technology, and the universe beyond. I’m fascinated by data science and cybersecurity and I'm currently working on various projects to expand my skills in these areas.
+Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Software Engineering student with a passion for science, technology and the universe beyond. I’m fascinated by data science and cybersecurity and I'm currently working on various projects to expand my skills in these areas.
 
 ## About Me
 
-- 🎓 Sophomore B.Sc. student in Software Engineering
-- 🚀 Passionate about science, technology, and space exploration
-- 🔐 Interested in data science and cybersecurity
-- 🌱 Currently learning and growing my skills in Computer Architecture, AI, ML
+- Sophomore B.Sc. student in Software Engineering
+- Passionate about science, technology, and space exploration
+- Interested in data science and cybersecurity
+- Currently learning and growing my skills in Computer Architecture, AI, ML
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/propmk/0/main/assets/intro.png" alt="Intro Image" width="1000">
