@@ -34,6 +34,9 @@ Hi there, Welcome to my GitHub profile! I'm Protyay Kumar Pramanik. I'm a Softwa
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
+  <a href="https://tmux.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tmux/tmux-plain.svg" alt="tmux" width="50" height="50"/>
+  </a>
   <a href="https://mariadb.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="Git" width="50" height="50"/>
   </a>
